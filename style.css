@@ -1,0 +1,168 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ .img-content img{
+    width: 250px;
+}
+.img-content{
+    width: 83.4%; 
+}
+.content-img-resige img{
+
+    width: 85%;
+}
+.containt-info{
+    padding: 49px 17px;    
+}
+#details{
+    background-color: #FFFBF0;
+}
+.containt-info h1{
+    font-family: arial;
+    font-weight: 700;
+    font-size: 55px;
+    color: #FABE4C;
+    letter-spacing: -1px;
+}
+.containt-info h1:nth-child(2){
+    color: #363958;
+}
+.btn-item {
+    background: #9AB438;
+    color: white;
+    font-size: 20px;
+    padding: 15px 32px;
+    font-family: arial;
+    font-weight: 500;
+    border: none;
+    border-radius:7px;
+}
+.containt-info p{
+    margin:28px 0px;
+}
+.nav-bar li a{
+    color: black !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    padding:13px !important ;
+}
+.collapse-items{
+
+    width: 75% !important;
+}
+.card-contant img{
+        width:60%;
+        height: 280px;
+        padding: 10px;
+}
+.card-contant{
+        background-color:#F1F1F1;
+        padding: 6px;
+        margin: 17px;
+        border-radius: 10px;  
+
+}
+.price{
+    color: #FABE4C;
+    font-size: 33px;
+    font-family: arial black;
+}
+#w-jacket{
+    margin: 40px 0px;
+}
+.w-title{
+    
+        font-size: 36px;   
+        font-weight: 700;   
+        letter-spacing: -1px;    
+        font-family: arial;
+        padding-bottom: 25px;
+}
+.box-card-items{
+    border-radius: 15px !important;
+    border: none !important;
+}
+.card-footer{
+    border: none !important;
+    background-color: white !important;
+    border-radius:15px !important ;
+}
+.bottom-img img{
+
+    width: 100%;
+    margin: 70px 0;
+} 
+.icon-product img{
+    width: 70px;
+}
+.icon-product {
+    height: 120px;
+    margin-bottom: -25px;
+    border-radius: 10px;
+    background-color: white !important;
+}
+.icon-product h1 {
+    font-size: 25px;
+    font-weight: 600;
+}
+.info{
+    height: 175px;
+     padding: 52px 34px;
+    
+}
+.info p{
+    font-size: 20px;
+    font-size: 14px;
+     font-family: arial; 
+}
+.details-info{
+    padding:15px;
+}
+.details-info h2{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: arial;
+}
+.input{
+    padding: 9px;
+    width: 100%;
+    font-family: arial;
+    border: none;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    outline: none;
+}
+.input-boxes{
+    position: relative;
+    width: 222px;
+}
+#submit{padding: 9px 24px;
+background: #19aa14;
+border: none;
+border-radius: 43px;
+position: absolute;
+left: 142px;
+outline: none;
+}
+.subs-icon a {
+    background: #ff003b;
+    width: 31px;
+    display: block;
+    float: left;
+    display: grid;
+    margin: 5px;
+    height: 32px;
+    border-radius: 50%;
+    text-decoration: none;
+    place-items: center;
+    color: white;
+}
+.row.details-info p {
+    color: white;
+}
+#footer{
+    background-color: #630f0f;
+}
